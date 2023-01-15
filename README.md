@@ -21,8 +21,6 @@ Meu nome é Willian, mas podem me chamar de Will, gosto de me desafiar e aprende
 - 💪🏻 Praticante de musculação 
 
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianScopel&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Para me encontrar 💻 
