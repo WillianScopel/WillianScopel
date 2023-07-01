@@ -30,15 +30,31 @@ Em 2017 tive meu primeiro contato com a programação e em 2022 iniciei minha jo
 
 <details>
 <summary><strong>Grafico de atividades do GitHub</strong></summary>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianScopel&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WillianScopel&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff"/>
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WillianScopel&theme=transparent"/>
+<br>
+  <div>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WillianScopel&hide=java&theme=nord_dark"/>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WillianScopel&theme=nord_dark"/>    
+  </div>
+<br>
+  <div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WillianScopel&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff"/>    
+  </div>
+<br>
+  <div>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WillianScopel&theme=nord_dark"/>
+  </div>
 </details>
 
-
-### Contato 💻 
-
+<details>
+<summary><strong>Contato</strong></summary>
+<br>
+<div>
+  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-scopel-661222243/)
-[![HackerHank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/willian_scopel)
 [![Outlook Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:willian.scopel@hotmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/328351570226053140/)
+
+</div>
+
+  
+</details>
