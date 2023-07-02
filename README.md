@@ -24,7 +24,6 @@ Em 2017 tive meu primeiro contato com a programação e em 2022 iniciei minha jo
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Gosto de jogar games nas horas vagas
 - 📚 Amante de livros 
 - 📺 Assisto muito filmes e séries de Sci-fi
-- 💪🏻 Praticante de musculação 
   
 </details>
 
