@@ -31,7 +31,7 @@ Em 2017 tive meu primeiro contato com a programação e em 2022 iniciei minha jo
 <summary><strong>Grafico de atividades do GitHub</strong></summary>
 <br>
   <div>
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WillianScopel&hide=java&theme=nord_dark"/>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WillianScopel&theme=nord_dark"/>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WillianScopel&theme=nord_dark"/>    
   </div>
 <br>
