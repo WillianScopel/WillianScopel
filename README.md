@@ -9,7 +9,6 @@ E em **2024**, conquistei minha tão sonhada **vaga na área de TI** como Desenv
 
 ---
 
-<details>
 <summary><strong>🛠️ Tecnologias com que trabalho</strong></summary>
 
 <br>
@@ -23,8 +22,6 @@ E em **2024**, conquistei minha tão sonhada **vaga na área de TI** como Desenv
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</details>
 
 ---
 
