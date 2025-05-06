@@ -4,8 +4,8 @@
 
 Gaúcho, geek, apreciador de games e séries.  
 Em 2017 tive meu primeiro contato com a programação e, em 2022, iniciei minha formação como Desenvolvedor Full Stack pela Cubos Academy.
-Em 2023 ingressei no curso de Sistemas para Internet no Instituto Federal Farroupilha(IFF) no campus Panambi.
-E em **2024**, conquistei minha tão sonhada **vaga na área de TI** como Desenvolvedor Front-End. 🚀
+Em 2024 ingressei no curso de Sistemas para Internet no Instituto Federal Farroupilha(IFF) no campus Panambi e ao final do mesmo ano,
+conquistei minha tão sonhada **vaga na área de TI** como Desenvolvedor Front-End. 
 
 ---
 
